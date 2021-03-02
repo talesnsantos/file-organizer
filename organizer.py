@@ -55,8 +55,7 @@ class organizer():
                 print(f'Isso é uma pasta {File}')
                 continue
             else:
-                #if File =='audios' or File == 'programas' or File == 'documentos' or File == 'videos' or File == 'Outros':
-                 #   continue
+               
                 print('  ------->    ',File)
         
                 if extension in audio:
