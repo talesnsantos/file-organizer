@@ -58,7 +58,7 @@ class organizer():
                 #if File =='audios' or File == 'programas' or File == 'documentos' or File == 'videos' or File == 'Outros':
                  #   continue
                 print('  ------->    ',File)
-        #/home/tales/Downloads
+        
                 if extension in audio:
                     temp = AUDIO_DIR
                     print(f'arquivo {File} organizado na pasta {temp}')
